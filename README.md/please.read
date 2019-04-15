@@ -1,0 +1,37 @@
+# Look2-Repo
+Look2 is the next version of Looking (http://www.luna-net.org/2015/dwl/index.html)
+and the between version of Looking (www.luna-net.org/2015/dwl/langv1.html)
+on these sites are also downloads for the against relation ip-address to alias
+which we can ever see if a domain under a more distributor provider if the ip-address is no matching.
+Now again with icons in toolbar,
+and a jar file to execute while the icon folder outside the jar-file is needed
+
+executed with icons only per exquisite row entry
+<code>
+java -jar Look2.jar
+</code>
+into the running shell in folder path.
+Here you can see also the content of files interpreted in shell string.
+
+
+
+or with start.sh
+(here is inside a subshell) 
+
+Up to java 1.8 should there no problem to start these version.
+
+Do not use the context wich aimed to the same row -> I don`t understand why the icons then missing.
+
+Surely is the save way to use the terminal to preserve with the shortcut "control and c" to stop 
+when you don`t know about the volume
+from the incomming file by request about protocol-string (complete url with filename).
+
+The doc-folder defined the  content in dependings for furthercoming with the source-code. 
+With a modification of the source-code is more possible than with the little bit of override getters set.
+
+The difficult two to the versions before is a automated Log-function for all alias requests
+which build for every request a own file with content from the request and ipaddress in filename.
+I would be happy about all furtherbringing usages or hints to give it more sense and correctness and about
+an explaining why the icon-folder outside is also needed.
+Not to forget:
+Thank your all open source friends working and worked with java to bring and brought me fun in my home work. 
