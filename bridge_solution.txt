@@ -1,0 +1,9 @@
+for a right usage about the log_output 
+
+please change row 225
+with following code inside <code></code>
+
+
+<code>
+gibt = new FileOutputStream("since_TLD " + Integer.toString(ser) + "_ip-address" + daten);
+</code>
